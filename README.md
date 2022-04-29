@@ -1,3 +1,1 @@
-<h1> Hi there >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7BF769&lines=Hi+there!)](https://git.io/typing-svg)
