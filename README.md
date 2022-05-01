@@ -2,12 +2,15 @@
 
 I am Ali Eren Ak, a senior **Computer Science and Engineering** student at **Sabanci University**, **Turkey**. I pursue multi-disciplinary undergraduate degree which helped me to understand the world from a broad perspective. I have a huge interest in **Computer Science** and **Mathematics**, and I am especially enthusiastic about **Deep Learning** and **Natural Language Processing**.
 
-[![Spotify](https://alierenak.vercel.app/api/spotify)](https://open.spotify.com/user/alierenak)
-
 # Currently
 - Training models that understand human language using pytorch ⚡ 
 - Focusing on my graduate project about **Real-time Super Computer Monitoring** 📚
-- Learning web3 and digital-twins concepts 🌱
+- Learning web3 and digital-twin concepts 🌱
+- Drumming when not coding 🥁
+
+<h4> Now I'm listening... 🎧</h4>   
+
+[![Spotify](https://alierenak.vercel.app/api/spotify)](https://open.spotify.com/user/yz9zu2gfaof8416uj8uhs5xlp)
 
 # Previosly
 - Worked as a part-time machine learning engineer at YAZI AI, where I trained turkish language models, classifiers, extractors and more.
