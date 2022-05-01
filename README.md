@@ -5,7 +5,7 @@ I am Ali Eren Ak, a senior **Computer Science and Engineering** student at **Sab
 # Currently
 - Training models that understand human language using pytorch.
 - Focusing on my graduate project about **Real-time Super Computer Monitoring**.
-- Learning Web3, Digital Twin.
+- Learning web3 and digital-twins concepts.
 
 # Previosly
 - Worked as a part-time machine learning engineer at YAZI AI, where I trained turkish language models, classifiers, extractors and more.
