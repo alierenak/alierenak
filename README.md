@@ -12,7 +12,7 @@ I am Ali Eren Ak, a senior **Computer Science and Engineering** student at **Sab
 
 [![Spotify](https://alierenak.vercel.app/api/spotify)](https://open.spotify.com/user/yz9zu2gfaof8416uj8uhs5xlp)
 
-# Previosly
+# Previously
 - Worked as a part-time machine learning engineer at YAZI AI, where I trained turkish language models, classifiers, extractors and more.
 - Interned at University of Amsterdam, IRLab, worked on project about **attribute-value extraction from product profiles**.
 - Involved projects in Sabancı University Natural Language Processing Research Group, about **background linking and wikification on news articles**. Ranked #1 at 29th TREC News Track.
