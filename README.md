@@ -3,7 +3,8 @@
 I am Ali Eren Ak, a senior **Computer Science and Engineering** student at **Sabanci University**, **Turkey**. I pursue multi-disciplinary undergraduate degree which helped me to understand the world from a broad perspective. I have a huge interest in **Computer Science** and **Mathematics**, and I am especially enthusiastic about **Deep Learning** and **Natural Language Processing**.
 
 # Currently
-- Training models that understand human language using pytorch ⚡ 
+- Working as a Data Science Intern at [John Snow Labs](http://github.com/johnSnowLabs/) 💻
+- Training models that understand human language using pytorch and [SparkNLP](https://github.com/JohnSnowLabs/spark-nlp) 💪
 - Focusing on my graduate project about **Real-time Super Computer Monitoring** 📚
 - Learning web3 and digital-twin concepts 🌱
 - Drumming when not coding 🥁
@@ -28,4 +29,4 @@ I am always open to new opportunities and collabrations. Do not hesitate to reac
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alierenak&hide=issues&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alierenak&layout=compact&theme=gotham)](https://github.com/alierenak/github-readme-stats)
 
-```Last edited on: 01/05/2022```
+```Last edited on: 11/09/2022```
