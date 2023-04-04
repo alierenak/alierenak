@@ -3,10 +3,8 @@
 I am Ali Eren Ak, a senior **Computer Science and Engineering** student at **Sabanci University**, **Turkey**. I pursue multi-disciplinary undergraduate degree which helped me to understand the world from a broad perspective. I have a huge interest in **Computer Science** and **Mathematics**, and I am especially enthusiastic about **Deep Learning** and **Natural Language Processing**.
 
 # Currently
-- Working as a Data Science Intern at [John Snow Labs](http://github.com/johnSnowLabs/) 💻
+- Working as a Data Scientist at [John Snow Labs](http://github.com/johnSnowLabs/) and developing [nlptest](http://github.com/johnSnowLabs/nlptest) 💻
 - Training models that understand human language using pytorch and [SparkNLP](https://github.com/JohnSnowLabs/spark-nlp) 💪
-- Focusing on my graduate project about **Real-time Super Computer Monitoring** 📚
-- Learning web3 and digital-twin concepts 🌱
 - Drumming when not coding 🥁
 
 <h4> Now I'm listening... 🎧</h4>   
