@@ -7,7 +7,7 @@ Nothing new here...
 - Working on LLMs and [LangChain](https://github.com/langchain-ai/langchain) 🚀
 - Drumming when not coding 🥁
 
-<h4> Now I'm listening... Not accurate sth times no judge🎧</h4>
+<h4> Now I'm listening... not accurate sometimes no judge 🎧</h4>
 
 [![Spotify](https://alierenak.vercel.app/api/spotify)](https://open.spotify.com/user/yz9zu2gfaof8416uj8uhs5xlp)
 
