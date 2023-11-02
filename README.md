@@ -1,17 +1,17 @@
 # Hi there!
 
-I am Ali Eren Ak, a senior **Computer Science and Engineering** student at **Sabanci University**, **Turkey**. I pursue multi-disciplinary undergraduate degree which helped me to understand the world from a broad perspective. I have a huge interest in **Computer Science** and **Mathematics**, and I am especially enthusiastic about **Deep Learning** and **Natural Language Processing**.
+I am Ali Eren, a software engineer and machine learning enthusiast. Nothing new here... But I have a huge interest in **Computer Science** and **Mathematics**, and I am especially experienced about **Deep Learning** and **Natural Language Processing**.
 
 # Currently
-- Working as a Data Scientist at [John Snow Labs](http://github.com/johnSnowLabs/) and developing [nlptest](http://github.com/johnSnowLabs/nlptest) 💻
-- Training models that understand human language using pytorch and [SparkNLP](https://github.com/JohnSnowLabs/spark-nlp) 💪
+- ...
 - Drumming when not coding 🥁
 
-<h4> Now I'm listening... 🎧</h4>   
+<h4> Now I'm listening... Not accurate sth times no judge🎧</h4>
 
 [![Spotify](https://alierenak.vercel.app/api/spotify)](https://open.spotify.com/user/yz9zu2gfaof8416uj8uhs5xlp)
 
 # Previously
+- Worked as a full-time Data Scientist at [John Snow Labs](http://github.com/johnSnowLabs/) and contributed to [nlptest](http://github.com/johnSnowLabs/langtest) 💻
 - Worked as a part-time machine learning engineer at YAZI AI, where I trained turkish language models, classifiers, extractors and more.
 - Interned at University of Amsterdam - IRLab, worked on project about **attribute-value extraction from product profiles**.
 - Involved projects in Sabancı University Natural Language Processing Research Group, about **background linking and wikification on news articles**. Ranked #1 at 29th TREC News Track.
