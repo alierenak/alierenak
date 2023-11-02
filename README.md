@@ -11,7 +11,7 @@ I am Ali Eren, a software engineer and machine learning enthusiast. Nothing new 
 [![Spotify](https://alierenak.vercel.app/api/spotify)](https://open.spotify.com/user/yz9zu2gfaof8416uj8uhs5xlp)
 
 # Previously
-- Worked as a full-time Data Scientist at [John Snow Labs](http://github.com/johnSnowLabs/) and contributed to [nlptest](http://github.com/johnSnowLabs/langtest) 💻
+- Worked as a full-time Data Scientist at [John Snow Labs](http://github.com/johnSnowLabs/) and contributed to [langtest](http://github.com/johnSnowLabs/langtest) 💻
 - Worked as a part-time machine learning engineer at YAZI AI, where I trained turkish language models, classifiers, extractors and more.
 - Interned at University of Amsterdam - IRLab, worked on project about **attribute-value extraction from product profiles**.
 - Involved projects in Sabancı University Natural Language Processing Research Group, about **background linking and wikification on news articles**. Ranked #1 at 29th TREC News Track.
