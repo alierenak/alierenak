@@ -4,7 +4,7 @@ I am Ali Eren, a software engineer and machine learning enthusiast. I have a hug
 Nothing new here...
 
 # Currently
-- ...
+- Working on LLMs and [LangChain](https://github.com/langchain-ai/langchain) 🚀
 - Drumming when not coding 🥁
 
 <h4> Now I'm listening... Not accurate sth times no judge🎧</h4>
