@@ -1,6 +1,7 @@
 # Hi there!
 
-I am Ali Eren, a software engineer and machine learning enthusiast. Nothing new here... But I have a huge interest in **Computer Science** and **Mathematics**, and I am especially experienced about **Deep Learning** and **Natural Language Processing**.
+I am Ali Eren, a software engineer and machine learning enthusiast. I have a huge interest in **Computer Science** and **Mathematics**, and I am especially experienced about **Deep Learning** and **Natural Language Processing**.
+Nothing new here...
 
 # Currently
 - ...
